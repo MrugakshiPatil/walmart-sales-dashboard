@@ -1,5 +1,7 @@
 # Walmart Sales Performance Dashboard #
 
+
+
 This project is an Excel dashboard analyzing Walmart store sales data.
 
 ## Features
@@ -20,7 +22,7 @@ This project is an Excel dashboard analyzing Walmart store sales data.
 
 ## Dataset
 
-Walmart Store Sales Dataset
+Walmart Store Sales Dataset 1 
 
 ## Author
 Mrugakshi Patil
