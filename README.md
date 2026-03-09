@@ -1,6 +1,6 @@
 # Walmart Sales Performance Dashboard #
 
-
+![Dashboard Preview](Dashboard.png)
 
 This project is an Excel dashboard analyzing Walmart store sales data.
 
